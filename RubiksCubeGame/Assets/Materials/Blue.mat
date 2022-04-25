@@ -814,7 +814,7 @@ Material:
     - _InvertSmoothness: 0
     - _LightingAOTexUV: 0
     - _LightingAdditiveDetailStrength: 1
-    - _LightingAdditiveEnable: 1
+    - _LightingAdditiveEnable: 0
     - _LightingAdditiveGradientEnd: 0.5
     - _LightingAdditiveGradientStart: 0
     - _LightingAdditiveLimitIntensity: 0
@@ -853,7 +853,7 @@ Material:
     - _MainColorAdjustTextureUV: 0
     - _MainDistanceFadeMax: 0
     - _MainDistanceFadeMin: 0
-    - _MainEmissionStrength: 0
+    - _MainEmissionStrength: 1.42
     - _MainFadeTextureUV: 0
     - _MainFadeType: 1
     - _MainHueShift: 0
@@ -908,7 +908,7 @@ Material:
     - _OffsetFactor: 0
     - _OffsetUnits: 0
     - _OutlineCull: 1
-    - _OutlineEmission: 2.98
+    - _OutlineEmission: 1
     - _OutlineFixedSize: 0
     - _OutlineHueOffset: 0
     - _OutlineHueOffsetSpeed: 0
@@ -1221,7 +1221,7 @@ Material:
     - m_end_subsurface: 0
     - m_end_vertexManipulation: 0
     - m_end_voronoiRandom: 0
-    - m_lightingOptions: 0
+    - m_lightingOptions: 1
     - m_mainOptions: 1
     - m_outlineOptions: 1
     - m_renderingOptions: 0
@@ -1252,7 +1252,7 @@ Material:
     - m_start_GrabPass: 0
     - m_start_Hologram: 0
     - m_start_Iridescence: 0
-    - m_start_Lighting: 0
+    - m_start_Lighting: 1
     - m_start_MainHueShift: 0
     - m_start_MainVertexColors: 0
     - m_start_Matcap2: 0
