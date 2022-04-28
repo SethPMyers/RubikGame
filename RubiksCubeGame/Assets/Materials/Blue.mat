@@ -649,7 +649,7 @@ Material:
     - _DissolveEdgeHueShift: 0
     - _DissolveEdgeHueShiftEnabled: 0
     - _DissolveEdgeHueShiftSpeed: 0
-    - _DissolveEdgeWidth: 0.025
+    - _DissolveEdgeWidth: 0.011
     - _DissolveEmission1Side: 2
     - _DissolveEmissionSide: 2
     - _DissolveHueShift: 0
@@ -686,7 +686,7 @@ Material:
     - _EmissionCenterOutAudioLinkWidth: 1
     - _EmissionCenterOutEnabled: 0
     - _EmissionCenterOutEnabled1: 0
-    - _EmissionCenterOutSpeed: 5
+    - _EmissionCenterOutSpeed: -0.13
     - _EmissionCenterOutSpeed1: 5
     - _EmissionHueShift: 0
     - _EmissionHueShift1: 0
@@ -846,14 +846,14 @@ Material:
     - _LightingUncapped: 0
     - _LightingWrappedNormalization: 0
     - _LightingWrappedWrap: 0
-    - _LineWidth: 2.92
+    - _LineWidth: 0.59
     - _LockTooltip: 0
     - _MainAlphaToCoverage: 0
     - _MainBrightness: 0
     - _MainColorAdjustTextureUV: 0
     - _MainDistanceFadeMax: 0
     - _MainDistanceFadeMin: 0
-    - _MainEmissionStrength: 1.42
+    - _MainEmissionStrength: 1.08
     - _MainFadeTextureUV: 0
     - _MainFadeType: 1
     - _MainHueShift: 0
@@ -1221,9 +1221,9 @@ Material:
     - m_end_subsurface: 0
     - m_end_vertexManipulation: 0
     - m_end_voronoiRandom: 0
-    - m_lightingOptions: 1
+    - m_lightingOptions: 0
     - m_mainOptions: 1
-    - m_outlineOptions: 1
+    - m_outlineOptions: 0
     - m_renderingOptions: 0
     - m_start_Alpha: 0
     - m_start_BlackLight: 0
@@ -1308,14 +1308,14 @@ Material:
     - m_start_glowInDarkEmissionOptions1: 0
     - m_start_lightingAdvanced: 0
     - m_start_lightingHSL: 0
-    - m_start_lightingModifiers: 0
+    - m_start_lightingModifiers: 1
     - m_start_manualFlipbookControl: 0
     - m_start_matcap: 0
     - m_start_matcap2HueShift: 0
     - m_start_matcapHueShift: 0
     - m_start_mirrorOptions: 0
     - m_start_outlineAdvanced: 0
-    - m_start_panosphereOptions: 0
+    - m_start_panosphereOptions: 1
     - m_start_parallaxAdvanced: 0
     - m_start_parallaxHeightmap: 0
     - m_start_parallaxInternal: 0
@@ -1414,7 +1414,7 @@ Material:
     - _DetailTexPan: {r: 0, g: 0, b: 0, a: 0}
     - _DetailTint: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveDetailNoisePan: {r: 0, g: 0, b: 0, a: 0}
-    - _DissolveEdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveEdgeColor: {r: 0, g: 1, b: 0.00002193451, a: 1}
     - _DissolveEndPoint: {r: 0, g: 1, b: 0, a: 0}
     - _DissolveMaskPan: {r: 0, g: 0, b: 0, a: 0}
     - _DissolveNoiseTexturePan: {r: 0, g: 0, b: 0, a: 0}
@@ -1428,7 +1428,7 @@ Material:
     - _DistortionStrengthAudioLink: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionCenterOutAddAudioLink: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionCenterOutAddAudioLink1: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0.052033424, b: 1, a: 1}
     - _EmissionColor1: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionMap1Pan: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionMapPan: {r: 0, g: 0, b: 0, a: 0}
